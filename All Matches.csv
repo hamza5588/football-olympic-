@@ -1,0 +1,338 @@
+HomeTeamName,AwayTeamName,HomeTeamGoals,AwayTeamGoals,Year
+France , Yugoslavia,4,5,1960
+Czechoslovakia , Soviet Union,0,3,1960
+Czechoslovakia , France,2,0,1960
+Soviet Union , Yugoslavia,2,1,1960
+Spain , Hungary,2,1,1964
+Denmark , Soviet Union,0,3,1964
+Hungary , Denmark,3,1,1964
+Spain , Soviet Union,2,1,1964
+Italy , Soviet Union,0,0,1968
+Yugoslavia , England,1,0,1968
+England , Soviet Union,2,0,1968
+Italy , Yugoslavia,1,1,1968
+Italy , Yugoslavia,2,0,1968
+Hungary , Soviet Union,0,1,1972
+Belgium , West Germany,1,2,1972
+Hungary , Belgium,1,2,1972
+West Germany , Soviet Union,3,0,1972
+Czechoslovakia , Netherlands,3,1,1976
+Yugoslavia , West Germany,2,4,1976
+Netherlands , Yugoslavia,3,2,1976
+Czechoslovakia , West Germany,2,2,1976
+Czechoslovakia , West Germany,0,1,1980
+Netherlands , Greece,1,0,1980
+West Germany , Netherlands,3,2,1980
+Greece , Czechoslovakia,1,3,1980
+Netherlands , Czechoslovakia,1,1,1980
+Greece , West Germany,0,0,1980
+Belgium , England,1,1,1980
+Spain , Italy,0,0,1980
+Belgium , Spain,2,1,1980
+England , Italy,0,1,1980
+Spain , England,1,2,1980
+Italy , Belgium,0,0,1980
+Czechoslovakia , Italy,1,1,1980
+Belgium , West Germany,1,2,1980
+France , Denmark,1,0,1984
+Belgium , Yugoslavia,2,0,1984
+France , Belgium,5,0,1984
+Denmark , Yugoslavia,5,0,1984
+France , Yugoslavia,3,2,1984
+Denmark , Belgium,3,2,1984
+West Germany , Portugal,0,0,1984
+Romania , Spain,1,1,1984
+West Germany , Romania,2,1,1984
+Portugal , Spain,1,1,1984
+West Germany , Spain,0,1,1984
+Portugal , Romania,1,0,1984
+France , Portugal,3,2,1984
+Denmark , Spain,1,1,1984
+France , Spain,2,0,1984
+West Germany , Italy,1,1,1988
+Denmark , Spain,2,3,1988
+West Germany , Denmark,2,0,1988
+Italy , Spain,1,0,1988
+West Germany , Spain,2,0,1988
+Italy , Denmark,2,0,1988
+England , Republic of Ireland,0,1,1988
+Netherlands , Soviet Union,0,1,1988
+England , Netherlands,1,3,1988
+Republic of Ireland , Soviet Union,1,1,1988
+England , Soviet Union,1,3,1988
+Republic of Ireland , Netherlands,0,1,1988
+West Germany , Netherlands,1,2,1988
+Soviet Union , Italy,2,0,1988
+Soviet Union , Netherlands,0,2,1988
+Sweden , France,1,1,1992
+Denmark , England,0,0,1992
+France , England,0,0,1992
+Sweden , Denmark,1,0,1992
+Sweden , England,2,1,1992
+France , Denmark,1,2,1992
+Netherlands , Scotland,1,0,1992
+CIS , Germany,1,1,1992
+Scotland , Germany,0,2,1992
+Netherlands , CIS,0,0,1992
+Netherlands , Germany,3,1,1992
+Scotland , CIS,3,0,1992
+Sweden , Germany,2,3,1992
+Netherlands , Denmark,2,2,1992
+Denmark , Germany,2,0,1992
+England ,  Switzerland,1,1,1996
+Netherlands , Scotland,0,0,1996
+Switzerland  , Netherlands,0,2,1996
+Scotland , England,0,2,1996
+Scotland ,  Switzerland,1,0,1996
+Netherlands , England,1,4,1996
+Spain , Bulgaria,1,1,1996
+Romania , France,0,1,1996
+Bulgaria , Romania,1,0,1996
+France , Spain,1,1,1996
+France , Bulgaria,3,1,1996
+Romania , Spain,1,2,1996
+Germany , Czech Republic,2,0,1996
+Italy , Russia,2,1,1996
+Czech Republic , Italy,2,1,1996
+Russia , Germany,0,3,1996
+Russia , Czech Republic,3,3,1996
+Italy , Germany,0,0,1996
+Denmark , Portugal,1,1,1996
+Turkey , Croatia,0,1,1996
+Portugal , Turkey,1,0,1996
+Croatia , Denmark,3,0,1996
+Croatia , Portugal,0,3,1996
+Turkey , Denmark,0,3,1996
+Spain , England,0,0,1996
+France , Netherlands,0,0,1996
+Germany , Croatia,2,1,1996
+Czech Republic , Portugal,1,0,1996
+France , Czech Republic,0,0,1996
+Germany , England,1,1,1996
+Czech Republic , Germany,1,2,1996
+Germany , Romania,1,1,2000
+Portugal , England,3,2,2000
+Romania , Portugal,0,1,2000
+England , Germany,1,0,2000
+England , Romania,2,3,2000
+Portugal , Germany,3,0,2000
+Belgium , Sweden,2,1,2000
+Turkey , Italy,1,2,2000
+Italy , Belgium,2,0,2000
+Sweden , Turkey,0,0,2000
+Turkey , Belgium,2,0,2000
+Italy , Sweden,2,1,2000
+Spain , Norway,0,1,2000
+FR Yugoslavia , Slovenia,3,3,2000
+Slovenia , Spain,1,2,2000
+Norway , FR Yugoslavia,0,1,2000
+FR Yugoslavia , Spain,3,4,2000
+Slovenia , Norway,0,0,2000
+France , Denmark,3,0,2000
+Netherlands , Czech Republic,1,0,2000
+Czech Republic , France,1,2,2000
+Denmark , Netherlands,0,3,2000
+Denmark , Czech Republic,0,2,2000
+France , Netherlands,2,3,2000
+Turkey , Portugal,0,2,2000
+Italy , Romania,2,0,2000
+Netherlands , FR Yugoslavia,6,1,2000
+Spain , France,1,2,2000
+France , Portugal,2,1,2000
+Italy , Netherlands,0,0,2000
+France , Italy,2,1,2000
+Portugal , Greece,1,2,2004
+Spain , Russia,1,0,2004
+Greece , Spain,1,1,2004
+Russia , Portugal,0,2,2004
+Spain , Portugal,0,1,2004
+Russia , Greece,2,1,2004
+Switzerland  , Croatia,0,0,2004
+France , England,2,1,2004
+England ,  Switzerland,3,0,2004
+Croatia , France,2,2,2004
+Croatia , England,2,4,2004
+Switzerland  , France,1,3,2004
+Denmark , Italy,0,0,2004
+Sweden , Bulgaria,5,0,2004
+Bulgaria , Denmark,0,2,2004
+Italy , Sweden,1,1,2004
+Italy , Bulgaria,2,1,2004
+Denmark , Sweden,2,2,2004
+Czech Republic , Latvia,2,1,2004
+Germany , Netherlands,1,1,2004
+Latvia , Germany,0,0,2004
+Netherlands , Czech Republic,2,3,2004
+Netherlands , Latvia,3,0,2004
+Germany , Czech Republic,1,2,2004
+Portugal , England,2,2,2004
+France , Greece,0,1,2004
+Sweden , Netherlands,0,0,2004
+Czech Republic , Denmark,3,0,2004
+Portugal , Netherlands,2,1,2004
+Greece , Czech Republic,1,0,2004
+Portugal , Greece,0,1,2004
+Switzerland  , Czech Republic,0,1,2008
+Portugal , Turkey,2,0,2008
+Czech Republic , Portugal,1,3,2008
+Switzerland  , Turkey,1,2,2008
+Switzerland  , Portugal,2,0,2008
+Turkey , Czech Republic,3,2,2008
+Austria , Croatia,0,1,2008
+Germany , Poland,2,0,2008
+Croatia , Germany,2,1,2008
+Austria , Poland,1,1,2008
+Poland , Croatia,0,1,2008
+Austria , Germany,0,1,2008
+Romania , France,0,0,2008
+Netherlands , Italy,3,0,2008
+Italy , Romania,1,1,2008
+Netherlands , France,4,1,2008
+Netherlands , Romania,2,0,2008
+France , Italy,0,2,2008
+Spain , Russia,4,1,2008
+Greece , Sweden,0,2,2008
+Sweden , Spain,1,2,2008
+Greece , Russia,0,1,2008
+Greece , Spain,1,2,2008
+Russia , Sweden,2,0,2008
+Portugal , Germany,2,3,2008
+Croatia , Turkey,1,1,2008
+Netherlands , Russia,1,3,2008
+Spain , Italy,0,0,2008
+Germany , Turkey,3,2,2008
+Russia , Spain,0,3,2008
+Germany , Spain,0,1,2008
+Poland , Greece,1,1,2012
+Russia , Czech Republic,4,1,2012
+Greece , Czech Republic,1,2,2012
+Poland , Russia,1,1,2012
+Czech Republic , Poland,1,0,2012
+Greece , Russia,1,0,2012
+Netherlands , Denmark,0,1,2012
+Germany , Portugal,1,0,2012
+Denmark , Portugal,2,3,2012
+Netherlands , Germany,1,2,2012
+Portugal , Netherlands,2,1,2012
+Denmark , Germany,1,2,2012
+Spain , Italy,1,1,2012
+Republic of Ireland , Croatia,1,3,2012
+Italy , Croatia,1,1,2012
+Spain , Republic of Ireland,4,0,2012
+Croatia , Spain,0,1,2012
+Italy , Republic of Ireland,2,0,2012
+France , England,1,1,2012
+Ukraine , Sweden,2,1,2012
+Ukraine , France,0,2,2012
+Sweden , England,2,3,2012
+England , Ukraine,1,0,2012
+Sweden , France,2,0,2012
+Czech Republic , Portugal,0,1,2012
+Germany , Greece,4,2,2012
+Spain , France,2,0,2012
+England , Italy,0,0,2012
+Portugal , Spain,0,0,2012
+Germany , Italy,1,2,2012
+Spain , Italy,4,0,2012
+France , Romania,2,1,2016
+Albania ,  Switzerland,0,1,2016
+Romania ,  Switzerland,1,1,2016
+France , Albania,2,0,2016
+Romania , Albania,0,1,2016
+Switzerland  , France,0,0,2016
+Wales , Slovakia,2,1,2016
+England , Russia,1,1,2016
+Russia , Slovakia,1,2,2016
+England , Wales,2,1,2016
+Russia , Wales,0,3,2016
+Slovakia , England,0,0,2016
+Poland , Northern Ireland,1,0,2016
+Germany , Ukraine,2,0,2016
+Ukraine , Northern Ireland,0,2,2016
+Germany , Poland,0,0,2016
+Ukraine , Poland,0,1,2016
+Northern Ireland , Germany,0,1,2016
+Turkey , Croatia,0,1,2016
+Spain , Czech Republic,1,0,2016
+Czech Republic , Croatia,2,2,2016
+Spain , Turkey,3,0,2016
+Czech Republic , Turkey,0,2,2016
+Croatia , Spain,2,1,2016
+Republic of Ireland , Sweden,1,1,2016
+Belgium , Italy,0,2,2016
+Italy , Sweden,1,0,2016
+Belgium , Republic of Ireland,3,0,2016
+Italy , Republic of Ireland,0,1,2016
+Sweden , Belgium,0,1,2016
+Austria , Hungary,0,2,2016
+Portugal , Iceland,1,1,2016
+Iceland , Hungary,1,1,2016
+Portugal , Austria,0,0,2016
+Iceland , Austria,2,1,2016
+Hungary , Portugal,3,3,2016
+Switzerland  , Poland,1,1,2016
+Wales , Northern Ireland,1,0,2016
+Croatia , Portugal,0,1,2016
+France , Republic of Ireland,2,1,2016
+Germany , Slovakia,3,0,2016
+Hungary , Belgium,0,4,2016
+Italy , Spain,2,0,2016
+England , Iceland,1,2,2016
+Poland , Portugal,1,1,2016
+Wales , Belgium,3,1,2016
+Germany , Italy,1,1,2016
+France , Iceland,5,2,2016
+Portugal , Wales,2,0,2016
+Germany , France,0,2,2016
+Portugal , France,1,0,2016
+Turkey,Italy,0,3,2020
+Wales,Switzerland,1,1,2020
+Turkey,Wales,0,2,2020
+Italy,Switzerland,3,0,2020
+Switzerland,Turkey,3,1,2020
+Italy,Wales,1,0,2020
+Denmark,Finland,0,1,2020
+Belgium,Russia,3,0,2020
+Finland,Russia,0,1,2020
+Denmark,Belgium,1,2,2020
+Russia,Denmark,1,4,2020
+Finland,Belgium,0,2,2020
+Austria,North Macedonia,3,1,2020
+Netherlands,Ukraine,3,2,2020
+Ukraine,North Macedonia,2,1,2020
+Netherlands,Austria,2,0,2020
+North Macedonia,Netherlands,0,3,2020
+Ukraine,Austria,0,1,2020
+England,Croatia,1,0,2020
+Scotland,Czech Republic,0,2,2020
+Croatia,Czech Republic,1,1,2020
+England,Scotland,0,0,2020
+Croatia,Scotland,3,1,2020
+Czech Republic,England,0,1,2020
+Poland,Slovakia,1,2,2020
+Spain,Sweden,0,0,2020
+Sweden,Slovakia,1,0,2020
+Spain,Poland,1,1,2020
+Slovakia,Spain,0,5,2020
+Sweden,Poland,3,2,2020
+Hungary,Portugal,0,3,2020
+France,Germany,1,0,2020
+Hungary,France,1,1,2020
+Portugal,Germany,2,4,2020
+Portugal,France,2,2,2020
+Germany,Hungary,2,2,2020
+Wales,Denmark,0,4,2020
+Italy,Austria,2,1,2020
+Netherlands,Czech Republic,0,2,2020
+Belgium,Portugal,1,0,2020
+Croatia,Spain,3,5,2020
+France,Switzerland,3,3,2020
+England,Germany,2,0,2020
+Sweden,Ukraine,1,2,2020
+Switzerland,Spain,1,1,2020
+Belgium,Italy,1,2,2020
+Czech Republic,Denmark,1,2,2020
+Ukraine,England,0,4,2020
+Italy,Spain,1,1,2020
+England,Denmark,2,1,2020
+Italy,England,1,1,2020
